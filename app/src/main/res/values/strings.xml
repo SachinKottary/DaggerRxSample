@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DaggerRxSample</string>
+    <string name="title_activity_delivery">Delivery App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="network_error">Network unavailable!</string>
+    <string name="something_error">Something went wrong!</string>
+    <string name="ok_button">Ok</string>
+</resources>
